@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: reactapp
   description: React App for Presentation
-  annotations: {}
+  annotations: 
+        backstage.io/techdocs-ref: url:https://github.com/Fasttrack-Dev/backstage-demo-dokumentation
 spec:
   type: website
   lifecycle: experimental
